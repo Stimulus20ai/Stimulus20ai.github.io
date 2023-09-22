@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: #FBF390;                        /* #fff; */
+        color: #FF4949;                        /* #fff; */
         background: $primary-color;
       }
 
@@ -266,7 +266,7 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
+        color: #FF4949;                             /* $masthead-link-color-hover; */
         background: #FF4949;                       /* mix(#fff, $primary-color, 75%);*/
       }
     }
@@ -292,7 +292,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #FBF390;                                  /* #fff transparent */ 
+      border-color: #FF4949;                                  /* #fff transparent */ 
       display: block;
       z-index: 1;
     }
@@ -334,13 +334,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #FBF390;                                     /* #fff; */
+    color: #FF4949;                                     /* #fff; */
     font-weight: bold;
     background: #FBF390;                                 /* $primary-color;*/
     border-radius: $border-radius;
 
     &:hover {
-      color: #FBF390;                                   /* #fff;*/
+      color: #FF4949;                                   /* #fff;*/
     }
   }
 }
