@@ -97,7 +97,7 @@
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: #FBF390;                          /* mix(#fff, $gray, 75%);*/
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,7 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
+    color: #FBF390;                                   /* mix(#fff, $gray, 50%);*/
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: #FBF390;                                /* mix(#fff, $gray, 75%);*/
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: #FBF390;                          /* $background-color;*/
 
   a {
     display: block;
@@ -336,7 +336,7 @@
     padding-right: 0.5em;
     color: #FBF390;                                     /* #fff; */
     font-weight: bold;
-    background: $primary-color;
+    background: #FBF390;                                 /* $primary-color;*/
     border-radius: $border-radius;
 
     &:hover {
