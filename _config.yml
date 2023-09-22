@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Main"
+title                    : "Stimulus AI"
 title_separator          : "-"
 name                     : &name "Stimulus AI"
 description              : &description "personal description"
