@@ -93,7 +93,7 @@
 
       &.current {
         color: #FF4949;                        /* #fff; */
-        background: $primary-color;
+        background: #FF4949;                    /* $primary-color; */
       }
 
       &.disabled {
@@ -336,7 +336,7 @@
     padding-right: 0.5em;
     color: #FF4949;                                     /* #fff; */
     font-weight: bold;
-    background: #FBF390;                                 /* $primary-color;*/
+    background: #FF4949;                                 /* $primary-color;*/
     border-radius: $border-radius;
 
     &:hover {
@@ -406,7 +406,7 @@
 
     &:hover {
       color: #FF4949;                                      /* #000; */
-      background:  #FBF390;                           /* $lighter-gray; */
+      background:  #FF4949;                           /* $lighter-gray; */
     }
   }
 
