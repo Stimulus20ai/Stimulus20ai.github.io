@@ -88,7 +88,7 @@
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        color: #FF4949;                             /* $link-color-hover; */
       }
 
       &.current {
@@ -136,7 +136,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: $link-color-hover;
+      color: #FF4949;                                   /* $link-color-hover; */
     }
 
     &:first-child {
@@ -185,7 +185,7 @@
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #FF4949;                              /* $masthead-link-color-hover; */
     }
   }
 
@@ -267,7 +267,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: #FBF390;                       /* mix(#fff, $primary-color, 75%);*/
+        background: #FF4949;                       /* mix(#fff, $primary-color, 75%);*/
       }
     }
 
