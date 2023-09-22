@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: #a0dbe8; /* #fff;*/
+        color: #fff;
         background: $primary-color;
       }
 
@@ -406,7 +406,7 @@
 
     &:hover {
       color: #000;
-      background: #a0dbe8; /* $lighter-gray; */
+      background: $lighter-gray;
     }
   }
 
