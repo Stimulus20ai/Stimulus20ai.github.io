@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris Mingard"
+  name             : "Stimulus AI"
   avatar           : "profile.png"
-  bio              : "DPhil student studying generalisation in neural networks, Oxford University"
-  location         : "Oxford, UK"
+  bio              : "Create insightful AI tools"
+  location         : "Paderborn, Germany"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xTMeOcYAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=xTMeOcYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "C1510"
+  github           : "Stimulus20ai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4519-9709"
+  orcid            : #"https://orcid.org/0000-0002-4519-9709"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "chris_mingard"
+  twitter          : #"chris_mingard"
   vine             :
   weibo            :
   xing             :
