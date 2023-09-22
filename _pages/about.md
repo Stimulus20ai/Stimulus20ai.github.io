@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Research Interests"
+title: "About Stimulus AI"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-**About Stimulus AI**
 
 Welcome to Stimulus AI, your gateway to the future of intelligent technologies. At Stimulus AI, our mission is to empower individuals and organizations with insightful AI tools that drive innovation and transform industries. We believe that artificial intelligence has the potential to revolutionize the way we work, live, and connect with the world, and we are committed to making this potential a reality.
 
